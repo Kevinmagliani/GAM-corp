@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "lab": true,
+  "version": "0.5.1-test",
+  "filename": "payload.txt",
+  "url": "https://kevinmagliani.github.io/GAM-corp/pc09i-lab/payload.txt",
+  "sha256": "0b6ebc78abdb2e57de72a63287c649ddb50c0709a123b5fc82316d68709ac0b9",
+  "sizeBytes": 140
+}
